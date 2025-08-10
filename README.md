@@ -1,0 +1,1 @@
+The Brainstrom is the web-based quiz system from where students or anyone can select the subject and take the multiple choice question. Student can observe the marks obtained and also view their progress. The admin can create the subjects and related questions.
